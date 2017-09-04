@@ -1,2 +1,0 @@
-# NeuralNetworks_DeepLearning_Ng
-NeuralNetworks_DeepLearning course 
